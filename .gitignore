@@ -18,3 +18,13 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+
+# Ignore emacs stuff
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
