@@ -1,0 +1,14 @@
+
+c:/Users/mfulghum/exercism/haskell/wordy/src/WordProblem.hs,431
+module WordProblem WordProblem0,1
+data Operator Operator5,6
+data Operator = Add Add5,6
+data Operator = Add | Subtract Subtract5,6
+data Operator = Add | Subtract | Multiply Multiply5,6
+data Operator = Add | Subtract | Multiply | Divide Divide5,6
+readIntMaybe readIntMaybe7,8
+readIntMaybe readIntMaybe8,9
+readOpMaybe readOpMaybe13,14
+readOpMaybe readOpMaybe14,15
+parseWords parseWords21,22
+answer answer38,39

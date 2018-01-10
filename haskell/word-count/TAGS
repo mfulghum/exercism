@@ -1,0 +1,22 @@
+
+c:/Users/mfulghum/exercism/haskell/word-count/test\Tests.hs,293
+main main12,13
+main main13,14
+specs specs15,16
+specs specs16,17
+data Case Case34,35
+data Case = Case Case34,35
+data Case = Case { description description34,35
+                 , input input35,36
+                 , expected expected36,37
+cases cases39,40
+cases cases40,41
+
+c:/Users/mfulghum/exercism/haskell/word-count/src\WordCount.hs,202
+module WordCount WordCount0,1
+stripQuotes stripQuotes5,6
+stripString stripString11,12
+stripString stripString12,13
+getWords getWords18,19
+wordCount wordCount20,21
+wordCount wordCount21,22

@@ -1,0 +1,24 @@
+
+c:/Users/mfulghum/exercism/haskell/all-your-base/test\Tests.hs,404
+main main8,9
+main main9,10
+specs specs11,12
+specs specs12,13
+data Case Case23,24
+data Case = Case Case23,24
+data Case = Case { description description23,24
+                 , inputBase inputBase24,25
+                 , inputDigits inputDigits25,26
+                 , outputBase outputBase26,27
+                 , outputDigits outputDigits27,28
+cases cases30,31
+cases cases31,32
+
+c:/Users/mfulghum/exercism/haskell/all-your-base/src\Base.hs,148
+module Base Base0,1
+fromBase fromBase2,3
+fromBase fromBase3,4
+toBase toBase7,8
+toBase toBase8,9
+rebase rebase15,16
+rebase rebase16,17

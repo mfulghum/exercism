@@ -1,0 +1,22 @@
+
+c:/Users/mfulghum/exercism/haskell/change/test\Tests.hs,332
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+data Case Case24,25
+data Case = Case Case24,25
+data Case = Case { description description24,25
+                 , coins coins25,26
+                 , target target26,27
+                 , expected expected27,28
+cases cases30,31
+cases cases31,32
+
+c:/Users/mfulghum/exercism/haskell/change/src\Change.hs,199
+module Change Change0,1
+calcDenomination calcDenomination6,7
+calcCoins' calcCoins'10,11
+calcCoins calcCoins15,16
+findFewestCoins findFewestCoins20,21
+findFewestCoins findFewestCoins21,22

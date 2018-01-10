@@ -1,0 +1,23 @@
+
+c:/Users/mfulghum/exercism/haskell/robot-simulator/src/Robot.hs,588
+data Bearing Bearing10,11
+data Bearing = NorthNorth10,11
+             | EastEast11,12
+             | SouthSouth12,13
+             | WestWest13,14
+data Robot Robot16,17
+data Robot = Robot Robot16,17
+data Robot = Robot { bearing bearing16,17
+                   , coordinates coordinates17,18
+mkRobot mkRobot20,21
+mkRobot mkRobot21,22
+step step23,24
+step step24,25
+simulate simulate31,32
+simulate simulate32,33
+turnLeft turnLeft35,36
+turnLeft turnLeft36,37
+turnRight turnRight39,40
+turnRight turnRight40,41
+advance advance43,44
+advance advance44,45

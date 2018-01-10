@@ -1,0 +1,25 @@
+
+c:/Users/mfulghum/exercism/haskell/simple-linked-list/test\Tests.hs,72
+main main14,15
+main main15,16
+specs specs17,18
+specs specs18,19
+
+c:/Users/mfulghum/exercism/haskell/simple-linked-list/src\LinkedList.hs,514
+data LinkedList LinkedList12,13
+data LinkedList a = Nil Nil12,13
+data LinkedList a = Nil | LinkedList LinkedList12,13
+data LinkedList a = Nil | LinkedList { datum datum12,13
+                                     , next next13,14
+new new16,17
+new new17,18
+fromList fromList19,20
+fromList fromList20,21
+toList toList23,24
+toList toList24,25
+isNil isNil27,28
+isNil isNil28,29
+nil nil31,32
+nil nil32,33
+reverseLinkedList reverseLinkedList34,35
+reverseLinkedList reverseLinkedList35,36

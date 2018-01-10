@@ -1,0 +1,8 @@
+
+c:/Users/mfulghum/exercism/haskell/scrabble-score/src/Scrabble.hs,177
+module Scrabble Scrabble0,1
+letterScores letterScores4,5
+scoreLetter scoreLetter12,13
+scoreLetter scoreLetter13,14
+scoreWord scoreWord19,20
+scoreWord scoreWord20,21

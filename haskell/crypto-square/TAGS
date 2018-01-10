@@ -1,0 +1,22 @@
+
+c:/Users/mfulghum/exercism/haskell/crypto-square/test\Tests.hs,293
+main main10,11
+main main11,12
+specs specs13,14
+specs specs14,15
+data Case Case30,31
+data Case = Case Case30,31
+data Case = Case { description description30,31
+                 , input input31,32
+                 , expected expected32,33
+cases cases35,36
+cases cases36,37
+
+c:/Users/mfulghum/exercism/haskell/crypto-square/src\CryptoSquare.hs,181
+module CryptoSquare CryptoSquare0,1
+normalize normalize5,6
+normalize normalize6,7
+codeShape codeShape8,9
+codeShape codeShape9,10
+encode encode15,16
+encode encode16,17

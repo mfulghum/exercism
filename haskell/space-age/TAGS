@@ -1,0 +1,30 @@
+
+c:/Users/mfulghum/exercism/haskell/space-age/test\Tests.hs,337
+main main10,11
+main main11,12
+specs specs13,14
+specs specs14,15
+data Case Case32,33
+data Case = Case Case32,33
+data Case = Case { description description32,33
+                 , planet planet33,34
+                 , seconds seconds34,35
+                 , expected expected35,36
+cases cases38,39
+cases cases39,40
+
+c:/Users/mfulghum/exercism/haskell/space-age/src\SpaceAge.hs,405
+module SpaceAge SpaceAge0,1
+data Planet Planet2,3
+data Planet = MercuryMercury2,3
+            | VenusVenus3,4
+            | EarthEarth4,5
+            | MarsMars5,6
+            | JupiterJupiter6,7
+            | SaturnSaturn7,8
+            | UranusUranus8,9
+            | NeptuneNeptune9,10
+yearLength yearLength11,12
+yearLength yearLength12,13
+ageOn ageOn23,24
+ageOn ageOn24,25

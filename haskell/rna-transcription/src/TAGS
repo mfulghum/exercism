@@ -1,0 +1,7 @@
+
+c:/Users/mfulghum/exercism/haskell/rna-transcription/src/DNA.hs,148
+module DNA DNA0,1
+toRNA toRNA2,3
+toRNA toRNA3,4
+transcribeNucleotide transcribeNucleotide5,6
+transcribeNucleotide transcribeNucleotide6,7

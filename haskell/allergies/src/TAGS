@@ -1,0 +1,16 @@
+
+c:/Users/mfulghum/exercism/haskell/allergies/src/Allergies.hs,772
+module Allergies Allergies0,1
+data Allergen Allergen4,5
+data Allergen = Eggs Eggs4,5
+data Allergen = Eggs | Peanuts Peanuts4,5
+data Allergen = Eggs | Peanuts | Shellfish Shellfish4,5
+data Allergen = Eggs | Peanuts | Shellfish | Strawberries Strawberries4,5
+data Allergen = Eggs | Peanuts | Shellfish | Strawberries | Tomatoes Tomatoes4,5
+data Allergen = Eggs | Peanuts | Shellfish | Strawberries | Tomatoes | Chocolate Chocolate4,5
+data Allergen = Eggs | Peanuts | Shellfish | Strawberries | Tomatoes | Chocolate | Pollen Pollen4,5
+data Allergen = Eggs | Peanuts | Shellfish | Strawberries | Tomatoes | Chocolate | Pollen | CatsCats4,5
+allergies allergies7,8
+allergies allergies8,9
+isAllergicTo isAllergicTo12,13
+isAllergicTo isAllergicTo13,14

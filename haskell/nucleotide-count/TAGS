@@ -1,0 +1,17 @@
+
+c:/Users/mfulghum/exercism/haskell/nucleotide-count/test\Tests.hs,71
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+
+c:/Users/mfulghum/exercism/haskell/nucleotide-count/src\DNA.hs,299
+module DNA DNA0,1
+validateNucleotide validateNucleotide5,6
+validateNucleotide validateNucleotide6,7
+validateStrand validateStrand9,10
+validateStrand validateStrand10,11
+count count13,14
+count count14,15
+nucleotideCounts nucleotideCounts19,20
+nucleotideCounts nucleotideCounts20,21

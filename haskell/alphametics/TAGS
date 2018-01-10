@@ -1,0 +1,26 @@
+
+c:/Users/mfulghum/exercism/haskell/alphametics/test\Tests.hs,295
+main main10,11
+main main11,12
+specs specs13,14
+specs specs14,15
+data Case Case25,26
+data Case = Case Case25,26
+data Case = Case { description description25,26
+                 , puzzle puzzle26,27
+                 , expected expected27,28
+cases cases30,31
+cases cases31,32
+
+c:/Users/mfulghum/exercism/haskell/alphametics/src\Alphametics.hs,310
+module Alphametics Alphametics0,1
+getNumbers getNumbers6,7
+getLetters getLetters12,13
+getPermutations getPermutations14,15
+replace replace19,20
+replace replace20,21
+readIntMaybe readIntMaybe25,26
+readIntMaybe readIntMaybe26,27
+checkValid checkValid31,32
+solve solve37,38
+solve solve38,39

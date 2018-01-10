@@ -1,0 +1,10 @@
+
+c:/Users/mfulghum/exercism/haskell/triangle/src/Triangle.hs,304
+module Triangle Triangle0,1
+data TriangleType TriangleType4,5
+data TriangleType = EquilateralEquilateral4,5
+                  | IsoscelesIsosceles5,6
+                  | ScaleneScalene6,7
+                  | IllegalIllegal7,8
+triangleType triangleType10,11
+triangleType triangleType11,12

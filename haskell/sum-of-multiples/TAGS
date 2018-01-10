@@ -1,0 +1,18 @@
+
+c:/Users/mfulghum/exercism/haskell/sum-of-multiples/test\Tests.hs,284
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+data Case Case25,26
+data Case = Case Case25,26
+data Case = Case { factors factors25,26
+                 , limit limit26,27
+                 , expected expected27,28
+cases cases30,31
+cases cases31,32
+
+c:/Users/mfulghum/exercism/haskell/sum-of-multiples/src\SumOfMultiples.hs,112
+module SumOfMultiples SumOfMultiples0,1
+sumOfMultiples sumOfMultiples4,5
+sumOfMultiples sumOfMultiples5,6

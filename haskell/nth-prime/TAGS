@@ -1,0 +1,18 @@
+
+c:/Users/mfulghum/exercism/haskell/nth-prime/test\Tests.hs,292
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+data Case Case23,24
+data Case = Case Case23,24
+data Case = Case { description description23,24
+                 , input input24,25
+                 , expected expected25,26
+cases cases28,29
+cases cases29,30
+
+c:/Users/mfulghum/exercism/haskell/nth-prime/src\Prime.hs,56
+module Prime Prime0,1
+primes primes4,5
+nth nth8,9

@@ -1,0 +1,21 @@
+
+c:/Users/mfulghum/exercism/haskell/binary-search-tree/src/BST.hs,456
+data BST BST14,15
+data BST a = Nil Nil14,15
+data BST a = Nil | Node Node14,15
+bstLeft bstLeft16,17
+bstLeft bstLeft17,18
+bstRight bstRight20,21
+bstRight bstRight21,22
+bstValue bstValue24,25
+bstValue bstValue25,26
+empty empty28,29
+empty empty29,30
+fromList fromList31,32
+fromList fromList32,33
+insert insert34,35
+insert insert35,36
+singleton singleton40,41
+singleton singleton41,42
+toList toList43,44
+toList toList44,45

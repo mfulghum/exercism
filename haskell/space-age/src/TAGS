@@ -1,0 +1,10 @@
+
+c:/Users/mfulghum/exercism/haskell/space-age/src/SpaceAge.hs,240
+module SpaceAge SpaceAge0,1
+data Planet Planet2,3
+data Planet = Planet Planet2,3
+data Planet = Planet { description description2,3
+                     , yearLength yearLength3,4
+let let6,7
+ageOn ageOn16,17
+ageOn ageOn17,18

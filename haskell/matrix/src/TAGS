@@ -1,0 +1,24 @@
+
+c:/Users/mfulghum/exercism/haskell/matrix/src/Matrix.hs,481
+type Matrix Matrix17,18
+type Matrix a a17,18
+flatten flatten19,20
+flatten flatten20,21
+fromList fromList22,23
+fromList fromList23,24
+fromString fromString26,27
+fromString fromString27,28
+row row31,32
+row row32,33
+rows rows34,35
+rows rows35,36
+cols cols37,38
+cols cols38,39
+shape shape40,41
+shape shape41,42
+transpose transpose43,44
+transpose transpose44,45
+column column50,51
+column column51,52
+reshape reshape53,54
+reshape reshape54,55

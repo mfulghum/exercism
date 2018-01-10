@@ -1,0 +1,12 @@
+
+c:/Users/mfulghum/exercism/haskell/saddle-points/src/Matrix.hs,226
+module Matrix Matrix0,1
+row row6,7
+col col7,8
+arrayMin arrayMin9,10
+arrayMin arrayMin10,11
+arrayMax arrayMax12,13
+arrayMax arrayMax13,14
+rowMax rowMax15,16
+colMin colMin19,20
+saddlePoints saddlePoints23,24

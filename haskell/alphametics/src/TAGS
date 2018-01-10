@@ -1,0 +1,13 @@
+
+c:/Users/mfulghum/exercism/haskell/alphametics/src/Alphametics.hs,310
+module Alphametics Alphametics0,1
+getNumbers getNumbers6,7
+getLetters getLetters12,13
+getPermutations getPermutations14,15
+replace replace19,20
+replace replace20,21
+readIntMaybe readIntMaybe25,26
+readIntMaybe readIntMaybe26,27
+checkValid checkValid31,32
+solve solve36,37
+solve solve37,38

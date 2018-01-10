@@ -1,0 +1,22 @@
+
+c:/Users/mfulghum/exercism/haskell/palindrome-products/test\Tests.hs,71
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+
+c:/Users/mfulghum/exercism/haskell/palindrome-products/src\Palindromes.hs,497
+module Palindromes Palindromes0,1
+isPalindromic isPalindromic4,5
+isPalindromic isPalindromic5,6
+maxPalindrome maxPalindrome7,8
+maxPalindrome maxPalindrome8,9
+minPalindrome minPalindrome31,32
+minPalindrome minPalindrome32,33
+getFactor getFactor38,39
+getFactor getFactor40,41
+getFactors getFactors46,47
+largestPalindrome largestPalindrome52,53
+largestPalindrome largestPalindrome53,54
+smallestPalindrome smallestPalindrome57,58
+smallestPalindrome smallestPalindrome58,59

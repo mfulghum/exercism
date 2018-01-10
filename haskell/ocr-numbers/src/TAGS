@@ -1,0 +1,12 @@
+
+c:/Users/mfulghum/exercism/haskell/ocr-numbers/src/OCR.hs,263
+module OCR OCR0,1
+digitChar digitChar5,6
+digitChar digitChar6,7
+digitMatch digitMatch47,48
+digitMatch digitMatch48,49
+convertDigit convertDigit51,52
+convertDigit convertDigit52,53
+inTxt inTxt54,55
+--convert --convert59,60
+convert convert60,61

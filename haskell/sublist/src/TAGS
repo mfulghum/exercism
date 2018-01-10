@@ -1,0 +1,8 @@
+
+c:/Users/mfulghum/exercism/haskell/sublist/src/Sublist.hs,247
+data Sublist Sublist2,3
+data Sublist = Equal Equal2,3
+data Sublist = Equal | Sublist Sublist2,3
+data Sublist = Equal | Sublist | Superlist Superlist2,3
+data Sublist = Equal | Sublist | Superlist | Unequal Unequal2,3
+sublist sublist4,5

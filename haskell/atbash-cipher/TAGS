@@ -1,0 +1,26 @@
+
+c:/Users/mfulghum/exercism/haskell/atbash-cipher/test\Tests.hs,378
+main main8,9
+main main9,10
+specs specs11,12
+specs specs12,13
+data Case Case20,21
+data Case = Case Case20,21
+data Case = Case { description description20,21
+                 , phrase phrase21,22
+                 , expected expected22,23
+encodeCases encodeCases25,26
+encodeCases encodeCases26,27
+decodeCases decodeCases65,66
+decodeCases decodeCases66,67
+
+c:/Users/mfulghum/exercism/haskell/atbash-cipher/src\Atbash.hs,210
+module Atbash Atbash0,1
+cipher cipher5,6
+cipher cipher6,7
+splitString splitString14,15
+splitString splitString15,16
+decode decode19,20
+decode decode20,21
+encode encode22,23
+encode encode23,24

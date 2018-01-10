@@ -1,0 +1,27 @@
+
+c:/Users/mfulghum/exercism/haskell/list-ops/test\Tests.hs,178
+data StrictException StrictException27,28
+data StrictException = StrictException StrictException27,28
+main main29,30
+main main30,31
+specs specs32,33
+specs specs33,34
+
+c:/Users/mfulghum/exercism/haskell/list-ops/src\ListOps.hs,336
+module ListOpsListOps2,3
+foldl' foldl'16,17
+foldl' foldl'17,18
+foldr foldr20,21
+foldr foldr21,22
+length length24,25
+length length25,26
+reverse reverse27,28
+reverse reverse28,29
+map map30,31
+map map31,32
+filter filter33,34
+filter filter34,35
+(++)++36,37
+xs xs37,38
+concat concat39,40
+concat concat40,41

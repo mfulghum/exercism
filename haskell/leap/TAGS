@@ -1,0 +1,18 @@
+
+c:/Users/mfulghum/exercism/haskell/leap/test\Tests.hs,292
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+data Case Case24,25
+data Case = Case Case24,25
+data Case = Case { description description24,25
+                 , input input25,26
+                 , expected expected26,27
+cases cases29,30
+cases cases30,31
+
+c:/Users/mfulghum/exercism/haskell/leap/src\LeapYear.hs,84
+module LeapYear LeapYear0,1
+isLeapYear isLeapYear2,3
+isLeapYear isLeapYear3,4

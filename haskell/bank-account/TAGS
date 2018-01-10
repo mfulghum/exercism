@@ -1,0 +1,17 @@
+
+c:/Users/mfulghum/exercism/haskell/bank-account/test\Tests.hs,72
+main main13,14
+main main14,15
+specs specs16,17
+specs specs17,18
+
+c:/Users/mfulghum/exercism/haskell/bank-account/src\BankAccount.hs,304
+type BankAccount BankAccount11,12
+closeAccount closeAccount13,14
+closeAccount closeAccount14,15
+getBalance getBalance16,17
+getBalance getBalance17,18
+incrementBalance incrementBalance21,22
+incrementBalance incrementBalance22,23
+openAccount openAccount28,29
+openAccount openAccount29,30

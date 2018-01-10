@@ -1,0 +1,42 @@
+
+c:/Users/mfulghum/exercism/haskell/bowling/test\Tests.hs,290
+main main8,9
+main main9,10
+specs specs11,12
+specs specs12,13
+data Case Case23,24
+data Case = Case Case23,24
+data Case = Case { description description23,24
+                 , rolls rolls24,25
+                 , expected expected25,26
+cases cases28,29
+cases cases29,30
+
+c:/Users/mfulghum/exercism/haskell/bowling/src\Bowling.hs,1022
+module Bowling Bowling0,1
+data BowlingError BowlingError5,6
+data BowlingError = IncompleteGameIncompleteGame5,6
+                  | InvalidRoll InvalidRoll6,7
+                  | InvalidRoll { rollIndex rollIndex6,7
+                  | InvalidRoll { rollIndex :: Int, rollValue rollValue6,7
+data Frame Frame9,10
+data Frame = Open Open9,10
+data Frame = Open Int | Spare Spare9,10
+data Frame = Open Int | Spare Int | Strike Strike9,10
+data Frame = Open Int | Spare Int | Strike Int | Bonus Bonus9,10
+data Frame = Open Int | Spare Int | Strike Int | Bonus Int | Invalid Invalid9,10
+frameRolls frameRolls12,13
+isInvalid isInvalid26,27
+isInvalid isInvalid27,28
+isStrike isStrike30,31
+isStrike isStrike31,32
+isSpare isSpare34,35
+isSpare isSpare35,36
+isOpen isOpen38,39
+isOpen isOpen39,40
+invalidToBowlingError invalidToBowlingError42,43
+invalidToBowlingError invalidToBowlingError43,44
+scoreFrame scoreFrame46,47
+scoreFrame scoreFrame47,48
+score score55,56
+score score56,57

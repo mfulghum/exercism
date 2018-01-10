@@ -1,0 +1,20 @@
+
+c:/Users/mfulghum/exercism/haskell/list-ops/src/ListOps.hs,347
+module ListOpsListOps2,3
+foldl' foldl'16,17
+foldl' foldl'17,18
+foldr foldr20,21
+foldr foldr21,22
+length length24,25
+length length25,26
+reverse reverse28,29
+reverse reverse29,30
+map map31,32
+map map32,33
+filter filter35,36
+filter filter36,37
+(++)++42,43
+[] []43,44
+(x(44,45
+concat concat46,47
+concat concat47,48

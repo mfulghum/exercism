@@ -1,0 +1,13 @@
+
+c:/Users/mfulghum/exercism/haskell/simple-cipher/src/Cipher.hs,378
+module Cipher Cipher0,1
+decodeLetter decodeLetter6,7
+encodeLetter encodeLetter17,18
+caesarDecode caesarDecode28,29
+caesarDecode caesarDecode29,30
+caesarEncode caesarEncode34,35
+caesarEncode caesarEncode35,36
+randomCipher randomCipher40,41
+randomCipher randomCipher41,42
+caesarEncodeRandom caesarEncodeRandom43,44
+caesarEncodeRandom caesarEncodeRandom44,45

@@ -1,0 +1,21 @@
+
+c:/Users/mfulghum/exercism/haskell/kindergarten-garden/src/Garden.hs,592
+module GardenGarden0,1
+data Plant Plant11,12
+data Plant = CloverClover11,12
+           | GrassGrass12,13
+           | RadishesRadishes13,14
+           | VioletsViolets14,15
+plant plant17,18
+plant plant18,19
+--defaultStudent --defaultStudent26,27
+--defaultStudent --defaultStudent27,28
+defaultStudents defaultStudents29,30
+studentPlants studentPlants31,32
+studentPlants studentPlants32,33
+defaultGarden defaultGarden39,40
+defaultGarden defaultGarden40,41
+garden garden42,43
+garden garden43,44
+lookupPlants lookupPlants48,49
+lookupPlants lookupPlants49,50

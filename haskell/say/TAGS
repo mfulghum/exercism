@@ -1,0 +1,28 @@
+
+c:/Users/mfulghum/exercism/haskell/say/test\Tests.hs,69
+main main8,9
+main main9,10
+specs specs11,12
+specs specs12,13
+
+c:/Users/mfulghum/exercism/haskell/say/src\Say.hs,634
+module Say Say0,1
+data Range Range6,7
+data Range = Tens Tens6,7
+data Range = Tens | Hundreds Hundreds6,7
+data Range = Tens | Hundreds | Thousands Thousands6,7
+data Range = Tens | Hundreds | Thousands | Millions Millions6,7
+data Range = Tens | Hundreds | Thousands | Millions | BillionsBillions6,7
+maybeNonzero maybeNonzero9,10
+maybeNonzero maybeNonzero10,11
+(<>)<>12,13
+input input13,14
+onesTeensStr onesTeensStr19,20
+tensStr tensStr23,24
+tens tens26,27
+tens tens27,28
+hundreds hundreds36,37
+hundreds hundreds37,38
+printRange printRange42,43
+printRange printRange43,44
+inEnglish inEnglish52,53

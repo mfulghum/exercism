@@ -1,0 +1,13 @@
+
+c:/Users/mfulghum/exercism/haskell/clock/src/Clock.hs,291
+data Clock Clock4,5
+data Clock = Clock Clock4,5
+instance instance7,8
+clockHour clockHour20,21
+clockHour clockHour21,22
+clockMin clockMin23,24
+clockMin clockMin24,25
+fromHourMin fromHourMin26,27
+fromHourMin fromHourMin27,28
+toString toString29,30
+toString toString30,31

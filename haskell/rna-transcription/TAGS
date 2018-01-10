@@ -1,0 +1,20 @@
+
+c:/Users/mfulghum/exercism/haskell/rna-transcription/test\Tests.hs,286
+main main8,9
+main main9,10
+specs specs11,12
+specs specs12,13
+data Case Case19,20
+data Case = Case Case19,20
+data Case = Case { description description19,20
+                 , dna dna20,21
+                 , expected expected21,22
+cases cases24,25
+cases cases25,26
+
+c:/Users/mfulghum/exercism/haskell/rna-transcription/src\DNA.hs,152
+module DNA DNA0,1
+toRNA toRNA4,5
+toRNA toRNA5,6
+transcribeNucleotide transcribeNucleotide11,12
+transcribeNucleotide transcribeNucleotide12,13

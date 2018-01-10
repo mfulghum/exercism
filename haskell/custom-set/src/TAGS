@@ -1,0 +1,129 @@
+
+c:/Users/mfulghum/exercism/haskell/custom-set/src/CustomSet_backup.hs,2094
+data Color Color18,19
+data Color = Red Red18,19
+data Color = Red | BlackBlack18,19
+data CustomSet CustomSet21,22
+data CustomSet a = Nil Nil21,22
+data CustomSet a = Nil | Node Node21,22
+treeLeft treeLeft24,25
+treeLeft treeLeft25,26
+treeRight treeRight27,28
+treeRight treeRight28,29
+treeValue treeValue30,31
+treeValue treeValue31,32
+treeColor treeColor33,34
+treeColor treeColor34,35
+treeInsert treeInsert37,38
+treeInsertTailCall treeInsertTailCall40,41
+treeRebalance treeRebalance47,48
+treeRebalance treeRebalance48,49
+uncleColor uncleColor60,61
+data TwoStepPath TwoStepPath66,67
+data TwoStepPath = LeftLeft LeftLeft66,67
+data TwoStepPath = LeftLeft | LeftRight LeftRight66,67
+data TwoStepPath = LeftLeft | LeftRight | RightLeft RightLeft66,67
+data TwoStepPath = LeftLeft | LeftRight | RightLeft | RightRightRightRight66,67
+pathFromGrandparent pathFromGrandparent68,69
+pathFromGrandparent pathFromGrandparent69,70
+treeRebalanceRedRedNode treeRebalanceRedRedNode75,76
+treePivotLeft treePivotLeft86,87
+treePivotLeft treePivotLeft87,88
+treePivotRight treePivotRight94,95
+treePivotRight treePivotRight95,96
+pivotParentLeft pivotParentLeft103,104
+pivotParentRight pivotParentRight106,107
+pivotGrandparentLeft pivotGrandparentLeft109,110
+pivotGrandparentRight pivotGrandparentRight113,114
+recolorAndContinue recolorAndContinue116,117
+treeReconstructNode treeReconstructNode134,135
+insert insert138,139
+empty empty140,141
+empty empty141,142
+null null143,144
+null null144,145
+delete delete147,148
+delete delete148,149
+difference difference150,151
+difference difference151,152
+fromList fromList153,154
+fromList fromList154,155
+intersection intersection156,157
+intersection intersection157,158
+isDisjointFrom isDisjointFrom159,160
+isDisjointFrom isDisjointFrom160,161
+isSubsetOf isSubsetOf162,163
+isSubsetOf isSubsetOf163,164
+member member165,166
+member member166,167
+size size168,169
+size size169,170
+toList toList171,172
+toList toList172,173
+union union174,175
+union union175,176
+
+c:/Users/mfulghum/exercism/haskell/custom-set/src/CustomSet.hs,2108
+data Color Color18,19
+data Color = Red Red18,19
+data Color = Red | BlackBlack18,19
+data CustomSet CustomSet21,22
+data CustomSet a = Nil Nil21,22
+data CustomSet a = Nil | Node Node21,22
+insert insert24,25
+insert insert25,26
+empty empty29,30
+empty empty30,31
+null null32,33
+null null33,34
+fromList fromList36,37
+fromList fromList37,38
+toList toList40,41
+toList toList41,42
+delete delete45,46
+delete delete46,47
+member member48,49
+member member49,50
+size size55,56
+size size56,57
+isDisjointFrom isDisjointFrom60,61
+isDisjointFrom isDisjointFrom61,62
+isSubsetOf isSubsetOf73,74
+isSubsetOf isSubsetOf74,75
+union union82,83
+union union83,84
+difference difference85,86
+difference difference86,87
+intersection intersection88,89
+intersection intersection89,90
+treeLeft treeLeft95,96
+treeLeft treeLeft96,97
+treeRight treeRight98,99
+treeRight treeRight99,100
+treeValue treeValue101,102
+treeValue treeValue102,103
+treeColor treeColor104,105
+treeColor treeColor105,106
+treeInsert treeInsert108,109
+treeInsertTailCall treeInsertTailCall111,112
+treeReconstructNode treeReconstructNode117,118
+treeRebalance treeRebalance121,122
+treeRebalance treeRebalance122,123
+uncleColor uncleColor138,139
+data TwoStepPath TwoStepPath144,145
+data TwoStepPath = LeftLeft LeftLeft144,145
+data TwoStepPath = LeftLeft | LeftRight LeftRight144,145
+data TwoStepPath = LeftLeft | LeftRight | RightLeft RightLeft144,145
+data TwoStepPath = LeftLeft | LeftRight | RightLeft | RightRightRightRight144,145
+pathFromGrandparent pathFromGrandparent146,147
+pathFromGrandparent pathFromGrandparent147,148
+treeRebalanceRedRedNode treeRebalanceRedRedNode153,154
+treePivotLeft treePivotLeft164,165
+treePivotLeft treePivotLeft165,166
+treePivotRight treePivotRight169,170
+treePivotRight treePivotRight170,171
+pivotParentLeft pivotParentLeft174,175
+pivotParentRight pivotParentRight177,178
+pivotGrandparentLeft pivotGrandparentLeft180,181
+pivotGrandparentRight pivotGrandparentRight183,184
+recolorAndContinue recolorAndContinue186,187

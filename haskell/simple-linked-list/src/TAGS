@@ -1,0 +1,19 @@
+
+c:/Users/mfulghum/exercism/haskell/simple-linked-list/src/LinkedList.hs,514
+data LinkedList LinkedList12,13
+data LinkedList a = Nil Nil12,13
+data LinkedList a = Nil | LinkedList LinkedList12,13
+data LinkedList a = Nil | LinkedList { datum datum12,13
+                                     , next next13,14
+new new16,17
+new new17,18
+fromList fromList19,20
+fromList fromList20,21
+toList toList22,23
+toList toList23,24
+isNil isNil26,27
+isNil isNil27,28
+nil nil30,31
+nil nil31,32
+reverseLinkedList reverseLinkedList33,34
+reverseLinkedList reverseLinkedList34,35

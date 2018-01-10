@@ -1,0 +1,9 @@
+
+c:/Users/mfulghum/exercism/haskell/secret-handshake/src/SecretHandshake.hs,239
+module SecretHandshake SecretHandshake1,2
+class HandshakeCode HandshakeCode6,7
+class HandshakeCode HandshakeCode6,7
+  toCode toCode7,8
+instance instance9,10
+handshakeResponses handshakeResponses18,19
+handshake handshake20,21

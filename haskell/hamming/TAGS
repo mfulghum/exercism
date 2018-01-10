@@ -1,0 +1,19 @@
+
+c:/Users/mfulghum/exercism/haskell/hamming/test\Tests.hs,338
+main main9,10
+main main10,11
+specs specs12,13
+specs specs13,14
+data Case Case24,25
+data Case = Case Case24,25
+data Case = Case { description description24,25
+                 , strand1 strand125,26
+                 , strand2 strand226,27
+                 , expected expected27,28
+cases cases30,31
+cases cases31,32
+
+c:/Users/mfulghum/exercism/haskell/hamming/src\Hamming.hs,74
+module Hamming Hamming0,1
+distance distance2,3
+distance distance3,4

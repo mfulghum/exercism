@@ -1,0 +1,17 @@
+
+c:/Users/mfulghum/exercism/haskell/parallel-letter-frequency/test\Tests.hs,72
+main main10,11
+main main11,12
+specs specs13,14
+specs specs14,15
+
+c:/Users/mfulghum/exercism/haskell/parallel-letter-frequency/src\Frequency.hs,293
+module Frequency Frequency0,1
+frequency frequency8,9
+frequency frequency9,10
+normalizeText normalizeText14,15
+normalizeText normalizeText15,16
+tallyCharacter tallyCharacter17,18
+tallyCharacter tallyCharacter18,19
+countLetters countLetters20,21
+countLetters countLetters21,22

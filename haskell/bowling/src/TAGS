@@ -1,0 +1,22 @@
+
+c:/Users/mfulghum/exercism/haskell/bowling/src/Bowling.hs,837
+module Bowling Bowling0,1
+data BowlingError BowlingError5,6
+data BowlingError = IncompleteGameIncompleteGame5,6
+                  | InvalidRoll InvalidRoll6,7
+                  | InvalidRoll { rollIndex rollIndex6,7
+                  | InvalidRoll { rollIndex :: Int, rollValue rollValue6,7
+data Frame Frame9,10
+data Frame = Open Open9,10
+data Frame = Open Int Int Int | Spare Spare9,10
+data Frame = Open Int Int Int | Spare Int Int | Strike Strike9,10
+data Frame = Open Int Int Int | Spare Int Int | Strike Int | Invalid Invalid9,10
+frameRolls frameRolls12,13
+isInvalid isInvalid23,24
+isInvalid isInvalid24,25
+invalidToBowlingError invalidToBowlingError27,28
+invalidToBowlingError invalidToBowlingError28,29
+scoreFrame scoreFrame31,32
+scoreFrame scoreFrame32,33
+score score39,40
+score score40,41

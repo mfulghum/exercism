@@ -1,0 +1,55 @@
+
+c:/Users/mfulghum/exercism/haskell/zebra-puzzle/src/ZebraPuzzle.hs,2234
+module ZebraPuzzle ZebraPuzzle0,1
+data Resident Resident6,7
+data Resident = Englishman Englishman6,7
+data Resident = Englishman | Spaniard Spaniard6,7
+data Resident = Englishman | Spaniard | Ukrainian Ukrainian6,7
+data Resident = Englishman | Spaniard | Ukrainian | Norwegian Norwegian6,7
+data Resident = Englishman | Spaniard | Ukrainian | Norwegian | JapaneseJapanese6,7
+data Color Color9,10
+data Color = Red Red9,10
+data Color = Red | Green Green9,10
+data Color = Red | Green | Ivory Ivory9,10
+data Color = Red | Green | Ivory | Yellow Yellow9,10
+data Color = Red | Green | Ivory | Yellow | BlueBlue9,10
+data Pet Pet11,12
+data Pet = Dog Dog11,12
+data Pet = Dog | Snails Snails11,12
+data Pet = Dog | Snails | Fox Fox11,12
+data Pet = Dog | Snails | Fox | Horse Horse11,12
+data Pet = Dog | Snails | Fox | Horse | ZebraZebra11,12
+data Drink Drink13,14
+data Drink = Coffee Coffee13,14
+data Drink = Coffee | Tea Tea13,14
+data Drink = Coffee | Tea | Milk Milk13,14
+data Drink = Coffee | Tea | Milk | OrangeJuice OrangeJuice13,14
+data Drink = Coffee | Tea | Milk | OrangeJuice | WaterWater13,14
+data Smoke Smoke15,16
+data Smoke = Kools Kools15,16
+data Smoke = Kools | Chesterfields Chesterfields15,16
+data Smoke = Kools | Chesterfields | LuckyStrike LuckyStrike15,16
+data Smoke = Kools | Chesterfields | LuckyStrike | Parliaments Parliaments15,16
+data Smoke = Kools | Chesterfields | LuckyStrike | Parliaments | OldGoldOldGold15,16
+data House House18,19
+data House = House House18,19
+defHouse defHouse21,22
+defHouse defHouse22,23
+data Solution Solution25,26
+data Solution = Solution Solution25,26
+data Solution = Solution { waterDrinker waterDrinker25,26
+                         , zebraOwner zebraOwner26,27
+possibleCombinations possibleCombinations29,30
+possibleCombinations possibleCombinations30,31
+isConnected isConnected32,33
+leftOf leftOf34,35
+rightOf rightOf36,37
+nextTo nextTo38,39
+inPosition inPosition41,42
+results results44,45
+solveWaterDrinker solveWaterDrinker90,91
+solveWaterDrinker solveWaterDrinker91,92
+solveZebraOwner solveZebraOwner95,96
+solveZebraOwner solveZebraOwner96,97
+solve solve100,101
+solve solve101,102

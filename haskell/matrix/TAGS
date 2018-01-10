@@ -1,0 +1,32 @@
+
+c:/Users/mfulghum/exercism/haskell/matrix/test\Tests.hs,72
+main main20,21
+main main21,22
+specs specs23,24
+specs specs24,25
+
+c:/Users/mfulghum/exercism/haskell/matrix/src\Matrix.hs,535
+type Matrix Matrix17,18
+type Matrix a a17,18
+flatten flatten19,20
+flatten flatten20,21
+fromList fromList22,23
+fromList fromList23,24
+parseLine parseLine26,27
+parseLine parseLine27,28
+fromString fromString32,33
+fromString fromString33,34
+row row37,38
+row row38,39
+rows rows40,41
+rows rows41,42
+cols cols43,44
+cols cols44,45
+shape shape49,50
+shape shape50,51
+transpose transpose52,53
+transpose transpose53,54
+column column59,60
+column column60,61
+reshape reshape62,63
+reshape reshape63,64

@@ -1,0 +1,24 @@
+
+c:/Users/mfulghum/exercism/haskell/linked-list/src/Deque.hs,540
+data Node Node6,7
+data Node = Node Node6,7
+data Deque Deque7,8
+data Deque = Deque Deque7,8
+nodeValue nodeValue9,10
+nodeLeft nodeLeft10,11
+nodeRight nodeRight11,12
+mkNode mkNode13,14
+updateNodeLeft updateNodeLeft19,20
+updateNodeRight updateNodeRight23,24
+clearNodeLeft clearNodeLeft27,28
+clearNodeRight clearNodeRight31,32
+mkDeque mkDeque35,36
+mkDeque mkDeque36,37
+pop pop42,43
+pop pop43,44
+push push56,57
+push push57,58
+shift shift68,69
+shift shift69,70
+unshift unshift82,83
+unshift unshift83,84

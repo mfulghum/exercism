@@ -1,0 +1,16 @@
+
+c:/Users/mfulghum/exercism/haskell/minesweeper/test\Tests.hs,67
+main main6,7
+main main7,8
+specs specs9,10
+specs specs10,11
+
+c:/Users/mfulghum/exercism/haskell/minesweeper/src\Minesweeper.hs,227
+module Minesweeper Minesweeper0,1
+boardBounds boardBounds5,6
+boardArray boardArray6,7
+adjacentMines adjacentMines8,9
+updateBoard updateBoard14,15
+getRow getRow23,24
+annotate annotate26,27
+annotate annotate27,28

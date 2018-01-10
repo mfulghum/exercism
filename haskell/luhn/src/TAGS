@@ -1,0 +1,9 @@
+
+c:/Users/mfulghum/exercism/haskell/luhn/src/Luhn.hs,174
+module Luhn Luhn0,1
+doubleDigits doubleDigits4,5
+addends addends10,11
+checkDigit checkDigit12,13
+checksum checksum14,15
+create create16,17
+isValid isValid19,20
