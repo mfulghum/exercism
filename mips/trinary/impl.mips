@@ -1,0 +1,33 @@
+# s0 - num of tests left to run
+# s1 - address of input word
+# s2 - address of expected output word
+# s3 - char byte
+# s4 - output word
+#
+# trinary_convert must:
+# - be named trinary_convert and declared as global
+# - read input address of string from a0
+# - follow the convention of using the t0-9 registers for temporary storage
+# - (if it uses s0-7 then it is responsible for pushing existing values to the stack then popping them back off before returning)
+# - write integer result to v0
+
+.text
+
+trinary_convert:
+        li      $v0, 0
+        li      $t1, 3
+
+read_char_loop:
+        lb      $t0, ($a0)
+        addi    $a0, $a0, 1
+        beq     $t0, $zero, read_char_done
+
+        mult    $v0, $t1 # {hi, lo} = rs * rt
+        mflo    $v0 # $v0 <- lo
+
+        addi    $t0, $t0, -48 # '0' in ASCII
+        add     $v0, $v0, $t0
+        j       read_char_loop
+
+read_char_done:
+        jr      $ra

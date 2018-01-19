@@ -1,0 +1,49 @@
+# s0 - num of tests left to run
+# s1 - address of input word
+# s2 - address of expected output word
+# s3 - char byte
+# s4 - output word
+#
+# hex_convert must:
+# - be named hex_convert and declared as global
+# - read input address of string from a0
+# - follow the convention of using the t0-9 registers for temporary storage
+# - (if it uses s0-7 then it is responsible for pushing existing values to the stack then popping them back off before returning)
+# - write integer result to v0
+
+.text
+
+hex_convert:
+        li      $v0, 0
+        li      $t1, 97 # 'a' in ASCII
+        li      $t2, 65 # 'A' in ASCII
+
+read_char_loop:
+        lb      $t0, ($a0)
+        addi    $a0, $a0, 1
+        beq     $t0, $zero, read_char_done
+
+        sll     $v0, $v0, 4
+        bge     $t0, $t1, lower_case
+        bge     $t0, $t2, upper_case
+
+numeric:
+        addi    $t0, $t0, -48 # '0' in ASCII
+        j       add_value
+
+lower_case:
+        sub     $t0, $t0, $t1
+        addi    $t0, $t0, 10
+        j       add_value
+
+upper_case:
+        sub     $t0, $t0, $t2
+        addi    $t0, $t0, 10
+        j       add_value
+
+add_value:
+        add     $v0, $v0, $t0
+        j       read_char_loop
+
+read_char_done:
+        jr      $ra
